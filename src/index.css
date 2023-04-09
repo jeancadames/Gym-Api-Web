@@ -18,6 +18,11 @@ a{
   text-decoration: none;
 }
 
+.css-1oj2twp-MuiPagination-root{
+  background-color: #fff;
+  border-radius: 10px;
+}
+
 .right-arrow,
 .left-arrow {
   cursor: pointer;
